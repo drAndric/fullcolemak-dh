@@ -1,25 +1,12 @@
-# Full International Colemak layout
+# Full International Colemak-DH layout
 
 ## for physical keyboards on Android
 
-
+A fork of
 
 ### Why
 
-After trying to use the built-in Colemak layout on Android, I discovered it did not have any of the International key.
+colemak-mods has DH, but no support for international dead keys (i write a lot in Spanish)
 
-So I built it myself! :)
+full international has them, but no DH-mode. So...
 
-### How to use it
-
-- Install
-- Select layout from Android Keyboard settings or when prompted after connecting a keyboard
-- Enjoy!
-
-### Disclamer
-
-I am not a programmer and don't really know what I did to do this. I followed some code found online and from the android source code itself. 
-
-This app does not have any real code apart from a single, empty placeholder class that does nothing.
-
-> No phone should blow up using this.
